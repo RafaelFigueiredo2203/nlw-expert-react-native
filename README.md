@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NativeWind](https://www.nativewind.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
-- [Reacy-Native](https://reactnative.dev/docs/)
+- [React-Native](https://reactnative.dev/docs/)
 
 
 
