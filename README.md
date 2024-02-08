@@ -12,11 +12,11 @@
 ![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/225d5797-e1b3-434d-a072-45ea36b198d6)
 
 
-
 ![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/1f975da6-bdf0-4268-8856-4286e3618418)
 
 
-![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/a07a6ba6-b810-4cde-ac81-329ca4e697b7)
+![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/3af1ff3f-7087-4b53-88e8-6964b4deed72)
+
 
 
 
