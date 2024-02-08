@@ -25,33 +25,30 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Vite](https://vitejs.dev/)
-- [Styled-Components](https://styled-components.com/)
+- [Expo](https://docs.expo.dev/)
+- [NativeWind](https://www.nativewind.dev/)
 - [Typescript](https://www.typescriptlang.org/)
-- [React-Hook-Form](https://react-hook-form.com/)
-- [zod](https://zod.dev/)
-- [Phosphor-react](https://phosphoricons.com/)
-- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
+- [Reacy-Native](https://reactnative.dev/docs/)
+
 
 
 ## 💻 Projeto
 
-DT Money - Controle de transações.🚀✅
+Nlw Expert Orders.🚀✅
 <br> <br>
 
-Este projeto foi desenvolvido durante o módulo 3 de ReactJs no Ignite, Dt Money , um projeto para controle de transações , nesse projeto é possível inserir novas transações e ter um controle maior sobre suas entradas e saídas .↘️↗️↘️ .
-<br> <br>
-
-
-Foi desenvolvido utilizando Vite/React com typescript , na estilização usamos styled-components , para leitura e criação de dados , utilizamos o Json-server , para simular uma api de acesso a um banco de dados fictício .🚀
+Este projeto foi desenvolvido durante o Nlw Expert na trilha de React-Native da Rocketseat , um projeto para uma loja de produtos de delivery , nesse projeto é possível encontrar seus lanches , adicionar e ter controle sobre o carrinho e finalizar o pedido mandando as informações para o whatsapp do estabelecimento , para que possam começar a preparar o pedido .
 <br> <br>
 
 
-Gostei muito de desenvolver esse projeto , nele aprendi a criar meu próprios hooks no React , aprimorei meus conhecimentos sobre acessibilidade na aplicação e sua importância.✅❤️
+Foi desenvolvido utilizando React Native com Expo , utilizamos navegação com Expo Router , reforcei os conhecimentos sobre manipulação do estado e propriedades , para manter os dados salvos no aplicativo como produtos no carrinho , utilizamos o AsyncStorage para armazenar as informações no storage do dispositivo do usuário , na estilização , utilizamos o NativeWind que foi muito prático e produtivo ! ✅❤️
 <br> <br>
 
-Aprendemos também a como deixar nossa aplicação mais performática, utilizando React DevTools , Context Selectors para evitar que quando um valor de um contexto é alterado , todos os componentes que usam a Context não sejam renderizados novamente , vimos também como usar o useCallback , memo e useMemo , para quando for necessário não deixar que nossa aplicação faça renderizações desnecessárias!! 🚀🚀   
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1336456468568916765/nlw-expert-orders). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🚀 Como executar
 
