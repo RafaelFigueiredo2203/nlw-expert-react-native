@@ -15,7 +15,8 @@
 ![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/1f975da6-bdf0-4268-8856-4286e3618418)
 
 
-![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/3af1ff3f-7087-4b53-88e8-6964b4deed72)
+![image](https://github.com/RafaelFigueiredo2203/nlw-expert-react-native/assets/60237326/a0d32421-4773-4639-976c-5d662a4fab35)
+
 
 
 
